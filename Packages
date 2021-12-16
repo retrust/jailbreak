@@ -6809,3 +6809,50 @@ Size: 82434
 MD5sum: afae51e84881d9e5d8b5cb3b541f1360
 SHA256: 218d4cad0f096a43481e4fa00e80ece5427df3d1e3b367e7673b9c8ce1d6aff2
 Filename: ./dpkg/neofetch_7.1.0-3_iphoneos-arm.deb
+
+Package: com.amywhile.dra1n
+Name: Dra1n
+Depends: mobilesubstrate,firmware(>=12.2) | org.swift.libswift (>=5.0),ws.hbang.common,preferenceloader,com.cokepokes.libnotifications (>= 0.2-2)
+Architecture: iphoneos-arm
+Description: Find out which packages are dra1ning your battery!
+Maintainer: MegaDev & Amy While
+Author: MegaDev & Amy While 
+Section: Tweaks
+Version: 1.4
+Installed-Size: 12900
+Size: 4818354
+MD5sum: cd3a5f68bf867493a73d84017a0e5707
+SHA256: 74629AB457FAA86269E770FB7581C64572567588EADE25D827193B6ECB6E9069
+Filename: ./dpkg/com.amywhile.dra1n_1.4_iphoneos-arm.deb
+
+Package: ru.domo.cocoatop64
+Name: CocoaTop
+Depends: 
+Conflicts: ru.domo.cocoatop
+Architecture: iphoneos-arm
+Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
+Maintainer: SXX, Domo
+Author: Domo, SXX
+Section: Utilities
+Version: 2.2.3
+Installed-Size: 892
+Size: 232222
+MD5sum: 2527fa61468eb5986dc2b007784d9a1a
+SHA256: 071F101692B5C520BDE3D1F99E72C0D0FFF4BE84F58FDCBDB26351C0AB8E1A81
+Filename: ./dpkg/ru.domo.cocoatop64_2.2.3_iphoneos-arm.deb
+
+Package: ru.domo.cocoatop
+Name: CocoaTop
+Depends: 
+Architecture: iphoneos-arm
+Description: Process Viewer for iOS GUI, updated for iOS 13 by SXX.
+Maintainer: Domo, SXX
+Author: Domo, SXX
+Section: Utilities
+Version: 2.2.1
+Installed-Size: 876
+Size: 223750
+MD5sum: a8266115642ed34f659f34a8085f934a
+SHA256: 6952C1AF0B9D579A0E9EAEB3B71B26865B1F0C723C0A709F24A766F200019DEC
+Filename: ./dpkg/ru.domo.cocoatop_2.2.1_iphoneos-arm.deb
+
