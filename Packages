@@ -6856,3 +6856,23 @@ MD5sum: a8266115642ed34f659f34a8085f934a
 SHA256: 6952C1AF0B9D579A0E9EAEB3B71B26865B1F0C723C0A709F24A766F200019DEC
 Filename: ./dpkg/ru.domo.cocoatop_2.2.1_iphoneos-arm.deb
 
+Package: jp.dcsyhi.airaw
+Name: Airaw
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap, firmware (>= 13.0), org.thebigboss.libcolorpicker, com.peterdev.libpddokdo, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Airaw is a Tweak to give extensions to CarPlay！
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Section: Tweaks
+Version: 1.5.1
+Icon: https://cdn.chariz.cloud/icon/airaw/icon@3x.png
+Depiction: https://chariz.com/buy/airaw
+Tag: compatible_min::ios13.0, cydia::commercial
+Installed-Size: 10796
+SileoDepiction: https://repo.chariz.com/api/sileo/package/jp.dcsyhi.airaw/depiction.json
+Header: https://chariz.com/cdn/sileo-banner/airaw.jpg
+Size: 9715640
+MD5sum: 03c4d5c2bdc1062f9500cfcc80be8950
+SHA256: 62037f25dd736364a3f60e3e29ae9db6fdd0607304e1e3981f6e28c1dd8e6932
+Filename: ./dpkg/jp.dcsyhi.airaw_1.5.1-1_iphoneos-arm.deb
+
